@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "build": "echo'build running script'"
+    "build": "echo build running script"
   },
   "author": "",
   "license": "ISC",
